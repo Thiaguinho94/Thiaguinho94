@@ -16,8 +16,6 @@
   <img align="center" alt="Thiaguinho-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/Thiaguinho94/Thiguinho94/blob/output/github-contribution-grid-snake.svg)
-  
   ##
 
 <!---
