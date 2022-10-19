@@ -2,7 +2,7 @@
 - 👀 I’m interested in studying and improving my skills in development
 - 🌱 I’m currently learning GitHub, Java, JavaScript and Node.js
 - 💞️ I’m looking to collaborate in helping others with the little knowledge I have.
-- 📫 How to reach me  in LinkedIn https://www.linkedin.com/in/thiago-azevedo-9287863a/
+- 📫 How to reach me  in LinkedIn https://www.linkedin.com/in/thiagoazevedoaguiar/
 
 <div align="center">
   <a href="https://github.com/Thiaguinho94">
