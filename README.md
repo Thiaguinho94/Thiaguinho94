@@ -58,7 +58,7 @@
     />
   </div>
   
-## Comunicação
+## Communication
 
 <div>
   <a href="Gmail:azevedothiago55@gmail.com">
