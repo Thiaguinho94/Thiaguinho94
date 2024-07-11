@@ -19,7 +19,7 @@
     />
   </div>
       <div>
-    <h4>Linguagem de Programação</h4>
+    <h4>Programming language</h4>
     <img
       align="center"
       alt="Juh-javascript"
@@ -38,7 +38,6 @@
  <div>
     <h4>
       Graphic Editor/Graphic Tool for Vector Projects and Design Project Prototyping
-      de projetos de design
     </h4>
     <img
       align="center"
