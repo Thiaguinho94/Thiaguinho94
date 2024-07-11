@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago Azevedo
 - 👀 I’m interested in studying and improving my skills in development
-- 🌱 I’m currently learning GitHub, Java, JavaScript and Node.js
+- 🌱 I’m currently learning GitHub, Data Analytics com Power BI.
 - 💞️ I’m looking to collaborate in helping others with the little knowledge I have.
 
 
